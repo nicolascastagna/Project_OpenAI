@@ -1,6 +1,6 @@
 # ChatGPT - OpenAI
 
-Création d'une application web qui ressemble à l'application ChatGPT, une communication avec l'API OpenAI du modèle GPT3 et, la possibilité de demander l'aide à l'IA concernant JavaScript, React ou tout autre langage de programmation, en lui donnant du code et en le traduisant dans un autre langage de programmation, par exemple.
+Création d'une application web qui ressemble à l'application ChatGPT, une communication avec l'API OpenAI du modèle GPT3 et, la possibilité de demander à l'IA concernant JavaScript, React ou tout autre langage de programmation, ou toutes autres demande.
 Inspiré de JS Mastery.
 
 ## Lien du projet :
